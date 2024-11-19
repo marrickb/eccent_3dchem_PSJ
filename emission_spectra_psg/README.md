@@ -1,0 +1,2 @@
+This folder contains emission spectra generated using NASA's Planetary Spectrum Generator and in particular the GlobES tool (https://psg.gsfc.nasa.gov/apps/globes.php). The conversion from 3D CCM output from the Unified Model and UK Chemistry and Aerosols framework is described in the notebooks for Figure 11.
+
